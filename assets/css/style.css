@@ -4,23 +4,31 @@
     margin: 0;
     padding: 0;
     border: none;
-    background: rgb(22, 22, 22);
 }
 
 body {
     font-family: 'Varela Round', sans-serif;
     font-weight: 300px;
-    color: #d6d6d6;
+    background-color: rgb(22, 22, 22);
+    color: #d4d4d4;
 }
 
-/* logo */
+/* logo and logo text */
 
 .logo {
-    height: 100px;
+    height: 130px;
     width: auto;
     float: left;
     margin-left: 30px;
     margin-top: 15px;
+}
+
+#logo-text {
+    height: 50px;
+    width: auto;
+    float: left;
+    margin-left: 20px;
+    margin-top: 85px;
 }
 
 /* navigation links*/
@@ -33,7 +41,7 @@ body {
 
 #menu,
 #logo {
-    line-height: 130px;
+    line-height: 150px;
 }
 
 #menu li {
@@ -49,14 +57,14 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 1.5px solid #d6d6d6;
+    border-bottom: 1.5px solid #d4d4d4;
 }
 
 .active {
-    border-bottom: 1px solid #1544c5;
+    border-bottom: 1px solid #d4d4d4;
 }
 
-/* hero image and header text */
+/* hero image and quotes text */
 
 #hero-outer {
     height: 350px;
@@ -66,13 +74,13 @@ body {
 
 #header-text,
 #header-text h1 {
-    color: #d6d6d6;
+    color: #a5a5a5;
 }
 
 #hero-image {
     height: 350px;
     width: 100%;
-    background: url("../images/Moon-2.jpg") no-repeat center center;
+    background: url("../images/Moon.jpg") no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
@@ -98,7 +106,7 @@ body {
     left: 30%;
     transform: translate(-50%, -50%);
     text-align: left;
-    color: #d6d6d6;
+    color: ##fcfade;
     text-transform: uppercase;
     background: none;
 }
@@ -110,8 +118,23 @@ body {
 }
 
 #main-text h2 {
-    border: 6px solid #d6d6d6;
+    border: 6px solid #d4d4d4;
     padding: 6px 14px;
     display: inline-block;
     background: none;
+}
+
+/* container images and quotes text */
+
+.images-container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background: rgb(150, 144, 144);
+    width: 600px;
+    height: 600px;
+    margin: 10px;
+    border-radius: 15px;
 }

@@ -10,7 +10,7 @@
 body {
     font-family: 'Varela Round', sans-serif;
     font-weight: 300px;
-    color: #f0ffff;
+    color: #d6d6d6;
 }
 
 /* logo */
@@ -49,13 +49,24 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 1.5px solid #f0ffff;
+    border-bottom: 1.5px solid #d6d6d6;
 }
+
+.active {
+    border-bottom: 1px solid #1544c5;
+}
+
+/* hero image and header text */
 
 #hero-outer {
     height: 350px;
     width: 100%;
     overflow: hidden;
+}
+
+#header-text,
+#header-text h1 {
+    color: #d6d6d6;
 }
 
 #hero-image {
@@ -79,4 +90,28 @@ body {
     to {
         transform: scale(1.2);
     }
+}
+
+#main-text {
+    position: absolute;
+    top: 23%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    color: #d6d6d6;
+    text-transform: uppercase;
+    background: none;
+}
+
+#main-text h1 {
+    margin: 0;
+    font-size: 3.0rem;
+    background: none;
+}
+
+#main-text h2 {
+    border: 6px solid #d6d6d6;
+    padding: 6px 14px;
+    display: inline-block;
+    background: none;
 }

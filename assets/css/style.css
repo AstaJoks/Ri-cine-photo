@@ -10,7 +10,7 @@ body {
     font-family: 'Varela Round', sans-serif;
     font-weight: 300px;
     background-color: rgb(22, 22, 22);
-    color: #d4d4d4;
+    color: #f1eeee;
 }
 
 /* logo and logo text */
@@ -124,7 +124,7 @@ body {
     background: none;
 }
 
-/* container images and quotes text */
+/* images containers and quotes text */
 
 .images-container {
     display: flex;
@@ -132,9 +132,41 @@ body {
 }
 
 .card {
-    background: rgb(150, 144, 144);
+    background: rgb(158, 158, 154);
     width: 600px;
     height: 600px;
     margin: 10px;
     border-radius: 15px;
+}
+
+.card-image {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.nature {
+    background-image: url("../images/Gold\ sunset.jpg");
+}
+
+.people {
+    background-image: url("../images/people.jpg");
+}
+
+.events {
+    background-image: url("../images/events.jpg")
+}
+
+.commercial {
+    background-image: url("../images/commercial.jpg");
+}
+
+.card h2 {
+    padding: 10px;
+}
+
+.card p {
+    padding: 10px;
 }

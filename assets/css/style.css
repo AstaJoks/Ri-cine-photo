@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Roboto:ital@1&family=Varela+Round&display=swap');
 
 * {
     margin: 0;
@@ -9,8 +9,8 @@
 body {
     font-family: 'Varela Round', sans-serif;
     font-weight: 300px;
-    background-color: rgb(22, 22, 22);
-    color: #f1eeee;
+    background-color: #0B0B09;
+    color: #DADAD2;
 }
 
 /* logo and logo text */
@@ -23,12 +23,14 @@ body {
     margin-top: 15px;
 }
 
-#logo-text {
+.logo-text {
+    font-family: Kanit, sans-serif;
+    color: #AB6249;
     height: 50px;
     width: auto;
     float: left;
     margin-left: 20px;
-    margin-top: 85px;
+    margin-top: 80px;
 }
 
 /* navigation links*/
@@ -57,14 +59,14 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 1.5px solid #d4d4d4;
+    border-bottom: 1.5px solid #AB6249;
 }
 
 .active {
-    border-bottom: 1px solid #d4d4d4;
+    border-bottom: 1px solid #AB6249;
 }
 
-/* hero image and quotes text */
+/* hero image and main heading */
 
 #hero-outer {
     height: 350px;
@@ -74,7 +76,7 @@ body {
 
 #header-text,
 #header-text h1 {
-    color: #a5a5a5;
+    color: #DADAD2;
 }
 
 #hero-image {
@@ -106,7 +108,7 @@ body {
     left: 30%;
     transform: translate(-50%, -50%);
     text-align: left;
-    color: ##fcfade;
+    color: #DADAD2;
     text-transform: uppercase;
     background: none;
 }
@@ -118,7 +120,7 @@ body {
 }
 
 #main-text h2 {
-    border: 6px solid #d4d4d4;
+    border: 6px solid #AB6249;
     padding: 6px 14px;
     display: inline-block;
     background: none;
@@ -132,11 +134,12 @@ body {
 }
 
 .card {
-    background: rgb(158, 158, 154);
+    background: #64392B;
     width: 600px;
-    height: 600px;
+    height: 680px;
     margin: 10px;
     border-radius: 15px;
+    text-align: center;
 }
 
 .card-image {
@@ -164,17 +167,26 @@ body {
 }
 
 .card h2 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
     padding: 10px;
 }
 
+
 .card p {
+    font-family: 'Kanit', sans-serif;
+    padding: 10px;
+}
+
+.quote {
+    text-transform: uppercase;
     padding: 10px;
 }
 
 .card a {
     padding: 15px 20px;
     background-color: black;
-    color: aliceblue;
+    color: #DADAD2;
     display: block;
     text-align: center;
     margin: 5px 150px;

@@ -170,3 +170,21 @@ body {
 .card p {
     padding: 10px;
 }
+
+.card a {
+    padding: 15px 20px;
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    margin: 5px 150px;
+    text-decoration: none;
+}
+
+.card:hover {
+    background-color: #3b3c3f;
+    color: rgb(236, 236, 236);
+    cursor: pointer;
+    transform:scale(1.03);
+    transition: all 1s ease;
+}

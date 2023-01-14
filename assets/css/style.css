@@ -25,7 +25,7 @@ body {
 
 .logo-text {
     font-family: Kanit, sans-serif;
-    color: #AB6249;
+    color: #DADAD2;
     height: 50px;
     width: auto;
     float: left;
@@ -59,11 +59,11 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 1.5px solid #AB6249;
+    border-bottom: 1.5px solid #494949;
 }
 
 .active {
-    border-bottom: 1px solid #AB6249;
+    border-bottom: 1px solid #494949;
 }
 
 /* hero image and main heading */
@@ -82,7 +82,7 @@ body {
 #hero-image {
     height: 350px;
     width: 100%;
-    background: url("../images/Moon.jpg") no-repeat center center;
+    background: url("../images/moon.webp") no-repeat center center;
 
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
@@ -120,7 +120,7 @@ body {
 }
 
 #main-text h2 {
-    border: 6px solid #AB6249;
+    border: 6px solid #494949;
     padding: 6px 14px;
     display: inline-block;
     background: none;
@@ -134,7 +134,7 @@ body {
 }
 
 .card {
-    background: #64392B;
+    background: #494949;
     width: 600px;
     height: 680px;
     margin: 30px 15px;;
@@ -151,19 +151,19 @@ body {
 }
 
 .nature {
-    background-image: url("../images/Gold\ sunset.jpg");
+    background-image: url("../images/nature.webp");
 }
 
 .people {
-    background-image: url("../images/people.jpg");
+    background-image: url("../images/people.webp");
 }
 
 .events {
-    background-image: url("../images/events.jpg")
+    background-image: url("../images/events.webp")
 }
 
 .commercial {
-    background-image: url("../images/commercial.jpg");
+    background-image: url("../images/commercial.webp");
 }
 
 .card h2 {
@@ -185,7 +185,7 @@ body {
 
 .card a {
     padding: 15px 20px;
-    background-color: black;
+    background-color: #0B0B09;
     color: #DADAD2;
     display: block;
     text-align: center;
@@ -195,7 +195,7 @@ body {
 
 .card:hover {
     background-color: #DADAD2;
-    color: #64392B;
+    color: #494949;
     cursor: pointer;
     transform:scale(1.03);
     transition: all 1s ease;
@@ -232,4 +232,14 @@ footer {
 .copyright {
     text-align: center;
     font-size: small;
+}
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+}
+
+#photos > img {
+    width: 100%;
 }

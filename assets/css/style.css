@@ -136,8 +136,9 @@ body {
 .card {
     background: #494949;
     width: 600px;
-    height: 680px;
-    margin: 30px 15px;;
+    height: 600px;
+    margin: 30px 15px;
+    ;
     border-radius: 15px;
     text-align: center;
 }
@@ -183,21 +184,20 @@ body {
     padding: 10px;
 }
 
-.card a {
-    padding: 15px 20px;
-    background-color: #0B0B09;
-    color: #DADAD2;
+.see-more {
+    padding: 20px;
+    background-color: #DADAD2;
+    color: #0B0B09;
     display: block;
     text-align: center;
-    margin: 5px 150px;
     text-decoration: none;
 }
 
-.card:hover {
-    background-color: #DADAD2;
-    color: #494949;
+.see-more:hover {
+    background-color: #494949;
+    color: #DADAD2;
     cursor: pointer;
-    transform:scale(1.03);
+    transform: scale(1.03);
     transition: all 1s ease;
 }
 
@@ -234,12 +234,14 @@ footer {
     font-size: small;
 }
 
+/* Gallery */
+
 #photos {
     clear: both;
     line-height: 3;
     column-count: 4;
 }
 
-#photos > img {
+#photos>img {
     width: 100%;
 }

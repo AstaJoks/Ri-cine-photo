@@ -200,3 +200,34 @@ body {
     transform:scale(1.03);
     transition: all 1s ease;
 }
+
+/* footer */
+
+footer {
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin: 1% 2%;
+    padding: 0 1%;
+    color: #DADAD2;
+}
+
+.educational-purpose {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+}

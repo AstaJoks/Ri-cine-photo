@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Varela Round', sans-serif;
-    font-weight: 300px;
+    font-weight: 300;
     background-color: #0B0B09;
     color: #DADAD2;
 }
@@ -75,7 +75,7 @@ body {
 }
 
 #header-text,
-#header-text h1 {
+#header-text h2 {
     color: #DADAD2;
 }
 
@@ -113,13 +113,14 @@ body {
     background: none;
 }
 
-#main-text h1 {
+#main-text h2 {
     margin: 0;
     font-size: 3.0rem;
     background: none;
 }
 
-#main-text h2 {
+#main-text h3 {
+    font-size: xx-large;
     border: 6px solid #494949;
     padding: 6px 14px;
     display: inline-block;
@@ -184,7 +185,7 @@ body {
     padding: 10px;
 }
 
-.see-more {
+.photos {
     padding: 20px;
     background-color: #DADAD2;
     color: #0B0B09;
@@ -193,7 +194,7 @@ body {
     text-decoration: none;
 }
 
-.see-more:hover {
+.photos:hover {
     background-color: #494949;
     color: #DADAD2;
     cursor: pointer;

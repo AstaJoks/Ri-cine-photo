@@ -185,12 +185,19 @@ body {
 }
 
 .photos {
-    padding: 20px;
+    padding: 15px;
     background-color: #DADAD2;
     color: #0B0B09;
-    display: block;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    display: inline;
+    position: absolute;
+    left: 40%;
+    right: 40%;
     text-align: center;
     text-decoration: none;
+    border-radius: 8px;
+    text-transform: uppercase;
 }
 
 .photos:hover {
@@ -204,7 +211,7 @@ body {
 /* footer */
 
 footer {
-    margin-top: 80px;
+    margin-top: 150px;
     margin-bottom: 20px;
 }
 

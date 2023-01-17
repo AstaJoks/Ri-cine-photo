@@ -30,7 +30,6 @@ body {
     width: auto;
     float: left;
     margin-left: 20px;
-    margin-top: 80px;
 }
 
 /* navigation links*/
@@ -41,9 +40,9 @@ body {
     margin-right: 30px;
 }
 
-#menu,
+#menu, .logo-text, 
 #logo {
-    line-height: 150px;
+    line-height: 200px;
 }
 
 #menu li {
@@ -72,11 +71,7 @@ body {
     height: 350px;
     width: 100%;
     overflow: hidden;
-}
-
-#header-text,
-#header-text h2 {
-    color: #DADAD2;
+    position: relative;
 }
 
 #hero-image {
@@ -104,10 +99,10 @@ body {
 
 #main-text {
     position: absolute;
-    top: 23%;
-    left: 30%;
-    transform: translate(-50%, -50%);
-    text-align: left;
+    padding: 30px;
+    top: 27%;
+    left: 15%;
+    text-align: center;
     color: #DADAD2;
     text-transform: uppercase;
     background: none;
@@ -132,6 +127,7 @@ body {
 .images-container {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .card {
@@ -184,7 +180,7 @@ body {
     padding: 10px;
 }
 
-.photos {
+.portfolio {
     padding: 15px;
     margin-top: 15px;
     background-color: #DADAD2;
@@ -258,10 +254,9 @@ footer {
 
 .form-section {
     clear: left;
-    align-items: center;
     background: url("..//images/eos-rp_.webp");
     background-size: cover;
-    background-position: center;
+    background-position: c;
     height: 1200px;
 }
 
@@ -317,4 +312,55 @@ footer {
 .join-button:hover {
     background-color: #0B0B09;
     color: #DADAD2;
+}
+
+/* media queries */
+
+/* for larger to medium screens size from 1200px wide and down */
+
+/* for medium screens sizes from 950px wide and down */
+
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
+
+/* for medium screens sizes from 800px wide and down */
+
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+    }
+
+    #photos {
+        column-count: 2;
+    }
+
+    .contact-form {
+        left: 15%;
+       
+    }
+}
+
+/* for small screens sizes from 700px wide and down */
+
+@media screen and (max-width: 700px) {
+.portfolio {
+    left: 30%;
+    right: 30%;
+    
+}
+}
+
+/* for small screens sizes from 415px wide and down */
+
+@media screen and (max-width: 415px) {
+    #menu {
+        letter-spacing: normal;       
+}
 }

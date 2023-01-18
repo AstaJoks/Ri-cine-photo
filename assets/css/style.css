@@ -153,7 +153,7 @@ body {
 }
 
 .people {
-    background-image: url("../images/people.webp");
+    background-image: url("../images//people.webp");
 }
 
 .events {
@@ -255,7 +255,8 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("..//images/eos-rp_.webp");
+    background: url("..//images/eos-rp.webp");
+    background-size: cover;
     height: 1200px;
     position: relative;
 }

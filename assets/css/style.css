@@ -256,7 +256,7 @@ footer {
     clear: left;
     background: url("..//images/eos-rp_.webp");
     background-size: cover;
-    background-position: c;
+    background-position: center;
     height: 1200px;
 }
 
@@ -304,7 +304,7 @@ footer {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: DADAD2;
+    background-color: #DADAD2;
     color: #494949;
     display: block;
 }
@@ -328,6 +328,10 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #main-text {
+        left: 5%;
+    }
 }
 
 /* for medium screens sizes from 800px wide and down */
@@ -345,6 +349,11 @@ footer {
         left: 15%;
        
     }
+
+    #main-text {
+        top: 10%;
+        left: 5%;
+    }
 }
 
 /* for small screens sizes from 700px wide and down */
@@ -352,15 +361,22 @@ footer {
 @media screen and (max-width: 700px) {
 .portfolio {
     left: 30%;
-    right: 30%;
-    
+    right: 30%;    
+}
+
+#main-text {
+    left: 0%;
 }
 }
 
 /* for small screens sizes from 415px wide and down */
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 425px) {
     #menu {
         letter-spacing: normal;       
+}
+
+#main-text {
+    top: 0%;
 }
 }

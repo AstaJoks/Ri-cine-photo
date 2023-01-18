@@ -255,16 +255,15 @@ footer {
 .form-section {
     clear: left;
     background: url("..//images/eos-rp_.webp");
-    background-size: cover;
-    background-position: center;
     height: 1200px;
+    position: relative;
 }
 
 .contact-form {
-    margin: 250px 10% 0 0;
+    margin-top: 250px;
     color: #DADAD2;
     background-color: rgba(36, 35, 35, 0.8);
-    max-width: 500px;
+    max-width: 450px;
     position: absolute;
     left: 10%;
     padding: 35px;
@@ -318,6 +317,13 @@ footer {
 
 /* for larger to medium screens size from 1200px wide and down */
 
+@media screen and (max-width: 1200px) {
+   
+    #main-text {
+        left: 5%;
+    } 
+}
+
 /* for medium screens sizes from 950px wide and down */
 
 @media screen and (max-width: 950px) {
@@ -330,7 +336,7 @@ footer {
     }
 
     #main-text {
-        left: 5%;
+        left: 3%;
     }
 }
 
@@ -343,11 +349,6 @@ footer {
 
     #photos {
         column-count: 2;
-    }
-
-    .contact-form {
-        left: 15%;
-       
     }
 
     #main-text {

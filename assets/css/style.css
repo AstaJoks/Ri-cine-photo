@@ -203,8 +203,10 @@ body {
 /* footer */
 
 footer {
-    margin-top: 150px;
-    margin-bottom: 20px;
+    padding: 20px;
+    background-color: black;
+    margin-top: 120px;
+    margin-bottom: 30px;
 }
 
 .social-networks {

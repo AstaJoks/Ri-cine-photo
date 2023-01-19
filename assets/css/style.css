@@ -133,35 +133,19 @@ body {
 
 .card {
     background: #494949;
-    width: 600px;
-    height: 600px;
+    width: 22%;
     margin: 30px 15px;
     border-radius: 15px;
     text-align: center;
 }
 
 .card-image {
-    height: 400px;
     width: 100%;
-    margin-bottom: 15px;
-    background-size: cover;
     border-radius: 15px 15px 0 0;
 }
 
-.nature {
-    background-image: url("../images/nature.webp");
-}
-
-.people {
-    background-image: url("../images//people.webp");
-}
-
-.events {
-    background-image: url("../images/events.webp")
-}
-
-.commercial {
-    background-image: url("../images/commercial.webp");
+.card-image img {
+    width: 100%;
 }
 
 .card h2 {
@@ -353,6 +337,7 @@ footer {
 
 /* media queries */
 
+
 /* for larger to medium screens size from 1200px wide and down */
 
 @media screen and (max-width: 1200px) {
@@ -409,7 +394,10 @@ footer {
     .contact-form {
         left: 17%;
     }
-}
+
+    .card {
+        width: 80%;
+    }
 
 /* for small screens sizes from 700px wide and down */
 

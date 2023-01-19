@@ -13,6 +13,7 @@ body {
     color: #DADAD2;
 }
 
+
 /* logo and logo text */
 
 .logo {
@@ -31,6 +32,7 @@ body {
     float: left;
     margin-left: 20px;
 }
+
 
 /* navigation links*/
 
@@ -65,6 +67,7 @@ body {
 .active {
     border-bottom: 1px solid #494949;
 }
+
 
 /* hero image and main heading */
 
@@ -122,6 +125,7 @@ body {
     display: inline-block;
     background: none;
 }
+
 
 /* images containers and quotes text */
 
@@ -187,7 +191,7 @@ body {
     text-transform: uppercase;
 }
 
-.photos:hover {
+.portfolio:hover {
     background-color: #494949;
     color: #DADAD2;
     cursor: pointer;
@@ -218,9 +222,34 @@ footer {
     color: #DADAD2;
 }
 
+.contact-me {
+    padding: 5px;
+    margin-top: 20px;
+    background-color: #DADAD2;
+    color: #0B0B09;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    display: inline;
+    position: absolute;
+    left: 40%;
+    right: 40%;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
+
+.contact-me:hover {
+    background-color: #494949;
+    color: #DADAD2;
+    cursor: pointer;
+    transform: scale(1.03);
+    transition: all 1s ease;
+}
+
 .educational-purpose {
     font-size: small;
-    margin-top: 40px;
+    margin-top: 60px;
     text-align: center;
 }
 
@@ -228,6 +257,7 @@ footer {
     text-align: center;
     font-size: small;
 }
+
 
 /* Gallery */
 
@@ -240,6 +270,7 @@ footer {
 #photos>img {
     width: 100%;
 }
+
 
 /* Form */
 
@@ -374,7 +405,7 @@ footer {
     .thank-you h1 {
         font-size: 25px;
     }
-    
+
     .thank-you p {
         font-size: 15px;
     }
@@ -403,6 +434,7 @@ footer {
     .card {
         width: 80%;
     }
+}
 
 /* for small screens sizes from 700px wide and down */
 
@@ -419,11 +451,17 @@ footer {
     .contact-form {
         left: 14%;
     }
+
+    .contact-me {
+        left: 30%;
+        right: 30%;
+    }
 }
 
 /* for small screens sizes from 425px wide and down */
 
 @media screen and (max-width: 425px) {
+
     #menu {
         letter-spacing: normal;
     }
@@ -439,7 +477,8 @@ footer {
     #main-text h2 {
         font-size: 2.0rem;
     }
-    
+
     #main-text h3 {
         font-size: large;
+    }
 }

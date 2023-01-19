@@ -428,7 +428,7 @@ footer {
     }
 }
 
-/* for small screens sizes from 415px wide and down */
+/* for small screens sizes from 425px wide and down */
 
 @media screen and (max-width: 425px) {
     #menu {
@@ -436,10 +436,17 @@ footer {
     }
 
     #main-text {
-        top: 0%;
+        top: 20%;
     }
 
     .contact-form {
         left: 0%;
     }
+
+    #main-text h2 {
+        font-size: 2.0rem;
+    }
+    
+    #main-text h3 {
+        font-size: large;
 }

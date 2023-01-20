@@ -17,20 +17,10 @@ body {
 /* logo and logo text */
 
 .logo {
-    height: 130px;
-    width: 130px;
+    width: 300px;
     float: left;
     margin-left: 30px;
-    margin-top: 15px;
-}
-
-.logo-text {
-    font-family: Kanit, sans-serif;
-    color: #DADAD2;
-    height: 50px;
-    width: auto;
-    float: left;
-    margin-left: 20px;
+    margin-top: 40px;
 }
 
 
@@ -43,7 +33,6 @@ body {
 }
 
 #menu,
-.logo-text,
 #logo {
     line-height: 200px;
 }
@@ -392,8 +381,7 @@ footer {
         clear: left;
         float: left;
         margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
+        line-height: 100px;
     }
 
     #main-text {
@@ -465,7 +453,7 @@ footer {
 @media screen and (max-width: 425px) {
 
     #menu {
-        letter-spacing: normal;
+        letter-spacing: 1.5px;
     }
 
     #main-text {
@@ -482,5 +470,23 @@ footer {
 
     #main-text h3 {
         font-size: large;
+    }
+}
+
+/* for xsmall screens sizes from 390px wide and down */
+
+@media screen and (max-width: 390px) {
+
+    #menu {
+        letter-spacing: 0.5px;
+    }
+}
+
+/* for xxsmall screens sizes from 365px wide and down */
+
+@media screen and (max-width: 365px) {
+
+    #menu {
+        letter-spacing: normal;
     }
 }

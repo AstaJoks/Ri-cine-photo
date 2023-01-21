@@ -8,6 +8,8 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 ![Responsice Mockup]()
 
+
+
 ## Features 
 
 - __Navigation Bar__
@@ -26,13 +28,13 @@ A good photography website is a showcase for photos, so users will be able to fi
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly what this site would be applicable to. 
-  - This section introduces the user to RI Cine|photo with an eye catching moon animation to grab their attention.
+  - This section introduces the user to RI Cine|Photo with an eye catching moon animation to grab their attention.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/landing_page_image_qytqzb.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
 - __Photos with the quotes section__
 
-  - Photos are used to catch the user's eye and make him/her to see more of the photographers work.
+  - Photos are used to catch the user's eye and make him/her to see more of the photographer's work.
   - Quotes will help the user to look at the art of photography in the whole new "light".
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263206/photos_quotes_qzjniy.webp" width="800px" height="auto"  alt="Nav_bar"></p>
@@ -47,7 +49,7 @@ A good photography website is a showcase for photos, so users will be able to fi
 - __Gallery__
 
   - The Gallery will provide the user with the photographer's portfolio/his best photos.
-  - This section is valuable to the user as they will be able to see the photographer's previous work and find out how they like the style of this photographer.
+  - This section is valuable to the user as they will be able to see the photographer's previous work and find out how they like the style of the photos.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263441/gallery_p8eyfc.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
@@ -70,6 +72,9 @@ A good photography website is a showcase for photos, so users will be able to fi
 
     - Responsive design.
     - Contact form and success page.
+    - Interactive elements.
+
+
 
 ## Design
 
@@ -97,7 +102,7 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 ### Colour Pallete
 
-- Color Scheme
+- __Color Scheme__
   - The three main colors used are: 
      - Dark Colour: #0B0B09
      - Grey Color: #494949
@@ -105,10 +110,31 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674340084/color_pallete_for_website_gpedrf.jpg" width="300px" height="auto"  alt="Nav_bar"></p>
 
-- Typography
+- __Typography__
 
-    - Varela Round and Kanit fonts are the two fonts used throughout the whole website with Sans Serif as the fallback font in case for any reason fonts are'nt being imported into the site correctly. 
+    - Varela Round and Kanit are the two fonts used throughout the whole website with Sans Serif as the fallback font in case for any reason fonts are'nt being imported into the site correctly. 
 
+
+
+## Technologies
+
+- __HTML__
+    - The structure of the Website was developed using HTML as the main language.
+
+- __CSS__
+    - The Website was styled using custom CSS in an external file.
+
+- __Font Awesome__
+    - Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section.
+
+- __Ezgif__
+    - https://ezgif.com was used to reduce the size of the images used throughout the website.
+
+- __Favicon.io__
+    - Favicon files were created at https://favicon.io/favicon-converter/.
+
+- __Balsamiq__
+    - Wireframes were created using balsamiq from https://balsamiq.com/.
 
   
 ## Testing 

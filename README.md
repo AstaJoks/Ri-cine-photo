@@ -66,6 +66,11 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264340/thank_you_message_ghrrld.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
+- __Existing Features__
+
+    - Responsive design
+    - Contact form and success page
+  
 ## Testing 
 
 ### Validator Testing 

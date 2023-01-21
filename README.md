@@ -17,25 +17,29 @@ A good photography website is a showcase for photos, so users will be able to fi
 
   __Navigation Buttons__
 
+![Nav Bar](<p align="center"><img src="../images/nav_bar" width="500px" height="auto"  alt="Nav_bar"></p>)
+
+
   - Navigations buttons of the "Porfolio" and "Contact Me" will allow user to easily navigate to Gallery or Get in Touch form without having to go back to the top of the page.
 
-![Nav Bar]()
+![Nav Buttons]()
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph with text overlay to allow the user to see exactly what this site would be applicable to. 
+  - This section introduces the user to RI Cine|photo with an eye catching moon animation to grab their attention.
 
 ![Landing Page]()
 
-- __Images with the quotes section__
+- __Photos with the quotes section__
 
-  - 
+  - Photos are used to catch the user's eye and make him/her to see more of the photographers work.
+  - Quotes will help the user to look at the art of photography in the whole new "light".
 
 - __The Footer__ 
 
   - The footer section includes links of the social media accounts for Ri Cine|Photo. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer]()
 

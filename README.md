@@ -73,27 +73,42 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 ## Design
 
-- Wireframes
+### Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes)
 
-Home Page
+- Home Page
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-HOME-page_uzlwaf.png" width="300px" height="auto"  alt="Nav_bar"></p>
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-HOME-page_mobile_rhgdjh.png" width="300px" height="auto"  alt="Nav_bar"></p>
 
-Gallery Page
+- Gallery Page
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GALLERY-page_ptjs6r.png" width="300px" height="auto"  alt="Nav_bar"></p>
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GALLERY-page_mobile_copy_nynjz2.png" width="300px" height="auto"  alt="Nav_bar"></p>
 
-Get in Touch Page
+- Get in Touch Page
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-GET_IN_TOUCH-page_wmn5ix.png" width="300px" height="auto"  alt="Nav_bar"></p>
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GET_IN_TOUCH-page_mobile_syc7jn.png" width="300px" height="auto"  alt="Nav_bar"></p>
 
-Thank you Page
+- Thank you Page
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-THANK_YOU-page_bj1pbm.png" width="300px" height="auto"  alt="Nav_bar"></p>
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-THANK_YOU-page_mobile_nmpdhc.png" width="300px" height="auto"  alt="Nav_bar"></p>
+
+### Colour Pallete
+
+- Color Scheme
+  - The three main colors used are: 
+     - Dark Colour: #0B0B09
+     - Grey Color: #494949
+     - Light Grey Colour: #DADAD2.
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674340084/color_pallete_for_website_gpedrf.jpg" width="300px" height="auto"  alt="Nav_bar"></p>
+
+- Typography
+
+    - Varela Round and Kanit fonts are the two fonts used throughout the whole website with Sans Serif as the fallback font in case for any reason fonts are'nt being imported into the site correctly. 
+
 
   
 ## Testing 
@@ -133,3 +148,10 @@ The live link can be found here -
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
+
+
+## Acknowledgments
+
+- My Mentor for continious helpful feedback.
+- Tutor support at Code Institute for her support
+- RI Cine|Photo for giving me a permission to use his name, logo and his photos.

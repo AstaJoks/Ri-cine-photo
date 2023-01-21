@@ -15,50 +15,53 @@ A good photography website is a showcase for photos, so users will be able to fi
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Get in Touch page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.  
 
+  <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674260943/nav_bar_lenxza.webp" width="500px" height="auto"  alt="Nav_bar"></p>
+
   __Navigation Buttons__
-
-<p align="center"><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674260943/nav_bar_lenxza.webp" width="500px" height="auto"  alt="Nav_bar"></p>
-
 
   - Navigations buttons of the "Porfolio" and "Contact Me" will allow user to easily navigate to Gallery or Get in Touch form without having to go back to the top of the page.
 
-![Nav Buttons]()
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/nav_buttons_oe9ecm.jpg" width="500px" height="auto"  alt="Nav_bar"></p>
 
 - __The landing page image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly what this site would be applicable to. 
   - This section introduces the user to RI Cine|photo with an eye catching moon animation to grab their attention.
 
-![Landing Page]()
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/landing_page_image_qytqzb.webp" width="500px" height="auto"  alt="Nav_bar"></p>
 
 - __Photos with the quotes section__
 
   - Photos are used to catch the user's eye and make him/her to see more of the photographers work.
   - Quotes will help the user to look at the art of photography in the whole new "light".
 
+  <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263206/photos_quotes_qzjniy.webp" width="500px" height="auto"  alt="Nav_bar"></p>
+
 - __The Footer__ 
 
   - The footer section includes links of the social media accounts for Ri Cine|Photo. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer]()
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262882/footer_mvov5d.webp" width="500px" height="auto"  alt="Nav_bar"></p>
 
 - __Gallery__
 
   -  
 
-![Gallery]()
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263441/gallery_p8eyfc.webp" width="500px" height="auto"  alt="Nav_bar"></p>
 
 - __The Get in Touch Page__
 
   -  
 
-![Sign Up]()
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264345/get_in_touch_form_d1j88n.webp" width="500px" height="auto"  alt="Nav_bar"></p>
 
 
-### Features Left to Implement
+- __Thank you Page__
 
-- Another feature idea
+  -  
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264340/thank_you_message_ghrrld.webp" width="500px" height="auto"  alt="Nav_bar"></p>
 
 ## Testing 
 

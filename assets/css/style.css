@@ -266,7 +266,7 @@ footer {
 /* Form */
 
 .form-section {
-    clear: left;
+    clear: both;
     background: url("..//images/eos-rp.webp");
     background-size: cover;
     height: 1200px;
@@ -336,7 +336,7 @@ footer {
 /* thank you page */
 
 .thank-you-section {
-    clear: left;
+    clear: both;
     background-color: #DADAD2;
     height: 300px;
     color: #0B0B09;

@@ -4,7 +4,7 @@ RI Cine|Photo is a professional photographer who wants to share his best work an
 
 The website is easy to navigate, it is very clean, using minimal colours and fonts. It is also responsive for different screen sizes.
 
-A good photography website is a showcase for photos, so users will be able to find RI work portfolio using a photo gallery and fill in the contact form to get in touch. RI social media accounts are also included on the website so users can keep up to date by following him.
+A good photography website is a showcase for photos, so users will be able to find 'RI' work portfolio using a photo gallery and fill in the contact form to get in touch. 'RI' social media accounts are also included on the website so users can keep up to date by following him.
 
 ![Responsice Mockup]()
 
@@ -47,20 +47,22 @@ A good photography website is a showcase for photos, so users will be able to fi
 - __Gallery__
 
   - The Gallery will provide the user with the photographer's portfolio/his best photos.
-  - This section is valuable to the user as they will be able to easily find out how they like the style of this photographer.
+  - This section is valuable to the user as they will be able to see the photographer's previous work and find out how they like the style of this photographer.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263441/gallery_p8eyfc.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
 - __The Get in Touch Page__
 
-  -  
+  - A Get in Touch form will be implemented to allow users to contact 'RI'. The form will consist of the following fields:
+      - First Name (required)
+      - Last Name (required)
+      - Email (required)
+      - Telephone Number (required)
+      - Message (optional)
+  - On successful submission of the get in touch form, the user will be navigated to thank-you.html displaying a success message.
+  - This will allow user to contact 'RI' if they would like to make a booking or for any other queries.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264345/get_in_touch_form_d1j88n.webp" width="800px" height="auto"  alt="Nav_bar"></p>
-
-
-- __Thank you Page__
-
-  -  
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264340/thank_you_message_ghrrld.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 

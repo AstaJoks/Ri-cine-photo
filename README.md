@@ -17,7 +17,7 @@ A good photography website is a showcase for photos, so users will be able to fi
 
   __Navigation Buttons__
 
-![Nav Bar](<p align="center"><img src="../images/nav_bar" width="500px" height="auto"  alt="Nav_bar"></p>)
+<p align="center"><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674260943/nav_bar_lenxza.webp" width="500px" height="auto"  alt="Nav_bar"></p>
 
 
   - Navigations buttons of the "Porfolio" and "Contact Me" will allow user to easily navigate to Gallery or Get in Touch form without having to go back to the top of the page.

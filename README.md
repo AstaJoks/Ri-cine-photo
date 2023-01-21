@@ -68,8 +68,33 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 - __Existing Features__
 
-    - Responsive design
-    - Contact form and success page
+    - Responsive design.
+    - Contact form and success page.
+
+## Design
+
+- Wireframes
+
+Home Page
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-HOME-page_uzlwaf.png" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-HOME-page_mobile_rhgdjh.png" width="300px" height="auto"  alt="Nav_bar"></p>
+
+Gallery Page
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GALLERY-page_ptjs6r.png" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GALLERY-page_mobile_copy_nynjz2.png" width="300px" height="auto"  alt="Nav_bar"></p>
+
+Get in Touch Page
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-GET_IN_TOUCH-page_wmn5ix.png" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GET_IN_TOUCH-page_mobile_syc7jn.png" width="300px" height="auto"  alt="Nav_bar"></p>
+
+Thank you Page
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-THANK_YOU-page_bj1pbm.png" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-THANK_YOU-page_mobile_nmpdhc.png" width="300px" height="auto"  alt="Nav_bar"></p>
+
   
 ## Testing 
 

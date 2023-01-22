@@ -6,7 +6,7 @@ The website is easy to navigate, it is very clean, using minimal colours and fon
 
 A good photography website is a showcase for photos, so users will be able to find 'RI' work portfolio using a photo gallery and fill in the contact form to get in touch. 'RI' social media accounts are also included on the website so users can keep up to date by following him.
 
-![Responsice Mockup]()
+![Responsice Mockup](https://res.cloudinary.com/dcydt01ed/image/upload/v1674428703/responsive-mock_up-white_n1ok4h.png)
 
 # Contents
 
@@ -44,9 +44,6 @@ A good photography website is a showcase for photos, so users will be able to fi
 - [Acknowledgments](#acknowledgments)
 
   
-  
-
-
 # Features 
 
 ## Navigation Bar

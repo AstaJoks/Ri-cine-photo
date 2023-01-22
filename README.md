@@ -78,7 +78,7 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 ## Design
 
-### Wireframes were created using [Balsamiq](https://balsamiq.com/wireframes)
+### Wireframes
 
 - Home Page
 
@@ -139,6 +139,73 @@ A good photography website is a showcase for photos, so users will be able to fi
   
 ## Testing 
 
+### Functional Testing
+
+<table>
+  <tr>
+    <th>Page</th>
+    <th>Test</th>
+    <th>Completed Succsessfully</th>
+  </tr>
+  <tr>
+    <td>ALL</td>
+    <td>Navigation links to relevant pages</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>ALL</td>
+    <td>Logo links back to homepage</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>ALL</td>
+    <td>Navigation hover effect</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>ALL</td>
+    <td>Social media icons in the footer link to the correct external link and open in new tab</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>HOMEPAGE</td>
+    <td> Portfolio button links to Gallery Page</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td>ALL</td>
+    <td>Images and quotes flex responsively </td>
+    <td>Yes</td>
+    </tr>
+    <tr>
+    <td>GET IN TOUCH</td>
+    <td>User can only input the email address in the correct form </td>
+    <td>Yes</td>
+    </tr>
+    <tr>
+    <td>GET IN TOUCH</td>
+    <td>User can only submit when all required fields are filled in </td>
+    <td>Yes</td>
+    </tr>
+</table>
+
+
+### Manual testing
+
+- The website was tested on Google Chrome, Internet Explorer and Microsoft Edge browsers.
+    
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhoneX & Samsung Galaxy NotePro.
+
+- The get in touch form was is 
+
+- A large amount of testing was done to ensure that all pages were linking correctly.
+
+- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+### Lighthouse Testing
+
+
+
 ### Validator Testing 
 
 - HTML
@@ -177,23 +244,7 @@ The live link can be found here -
 
 
 
-Resources
-
-    Code Institute
-    A Complete Guide to CSS Grid
-    A Complete Guide to Flexbox MDN
-    Figma
-    Pexels
-    Google Fonts
-    Coolors
-    Font Awesome
-    I Love Img
-    Am I Responsive
-
-
-
-
-### Content 
+## Content 
 
 
 

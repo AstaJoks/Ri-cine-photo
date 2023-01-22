@@ -8,52 +8,89 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 ![Responsice Mockup]()
 
+# Contents
+
+- [Features](#features)
+  - [Navigation Bar](#navigation-bar)
+  - [Navigation Buttons](#navigation-buttons)
+  - [Landing page images](#landing-page-images)
+  - [Photos with the quotes section](#photos-with-the-quotes-section)
+  - [Footer ](#footer)
+  - [Gallery](#gallery)
+  - [Get in Touch Page](#get-in-touch-page)
+  - [Existing Features](#existing-features)
+- [Design](#design)
+  - [Wireframes](#wireframes)
+  - [Colour Pallete](#colour-pallete)
+  - [Typography](#typography)
+- [Technologies](#technologies)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Font Awesome](#font-awesome)
+  - [Ezgif](#ezgif)
+  - [Favicon](#favicon)
+  - [Balsamiq](#balsamiq)
+- [Testing](testing)
+  - [Functional Testing](#functional-testing)
+  - [Manual Testing](#manual-testing)
+  - [Lighthouse Testing](#lighthouse-testing)
+  - [Validator Testing](#validator-testing)
+  - [Unfixed Bugs](#unfixed-bugs)
+- [Deployment](#deployment)
+  - [Deploying on GitHub Pages](#deploying-on-github-pages)
+- [Credits](#credits)
+  - [Code](#code)
+  - [Resources](#resources)
+- [Acknowledgments](#acknowledgments)
+
+  
+  
 
 
-## Features 
+# Features 
 
-### Navigation Bar
+## Navigation Bar
 
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Get in Touch page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.  
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674260943/nav_bar_lenxza.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
-### Navigation Buttons
+## Navigation Buttons
 
    - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Get in Touch page and is identical in each page to allow for easy navigation.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/nav_buttons_oe9ecm.jpg" width="800px" height="auto"  alt="Nav_bar"></p>
 
-### The landing page images
+## Landing page images
 
   - The landing includes a photograph with text overlay to allow the user to see exactly what this site would be applicable to. 
   - This section introduces the user to RI Cine|Photo with an eye catching moon animation to grab their attention.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/landing_page_image_qytqzb.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
-### Photos with the quotes section
+## Photos with the quotes section
 
   - Photos are used to catch the user's eye and make him/her to see more of the photographer's work.
   - Quotes will help the user to look at the art of photography in the whole new "light".
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263206/photos_quotes_qzjniy.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
-### The Footer 
+## Footer 
 
   - The footer section includes links of the social media accounts for Ri Cine|Photo. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262882/footer_mvov5d.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
-### Gallery
+## Gallery
 
   - The Gallery will provide the user with the photographer's portfolio/his best photos.
   - This section is valuable to the user as they will be able to see the photographer's previous work and find out how they like the style of the photos.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263441/gallery_p8eyfc.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
-### The Get in Touch Page
+## Get in Touch Page
 
   - A Get in Touch form will be implemented to allow users to contact 'RI'. The form will consist of the following fields:
       - First Name (required)
@@ -68,7 +105,7 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264340/thank_you_message_ghrrld.webp" width="800px" height="auto"  alt="Nav_bar"></p>
 
-### Existing Features
+## Existing Features
 
     - Responsive design.
     - Contact form and success page.
@@ -76,70 +113,66 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 
 
-## Design
+# Design
 
-### Wireframes
+## Wireframes
 
 - Home Page
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-HOME-page_uzlwaf.png" width="300px" height="auto"  alt="Nav_bar"></p>
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-HOME-page_mobile_rhgdjh.png" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421896/home_page_jlrdt7.png" width="700px" height="auto"  alt="Nav_bar"></p>
 
 - Gallery Page
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GALLERY-page_ptjs6r.png" width="300px" height="auto"  alt="Nav_bar"></p>
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GALLERY-page_mobile_copy_nynjz2.png" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421896/gallery_page_psnary.png" width="700px" height="auto"  alt="Nav_bar"></p>
 
 - Get in Touch Page
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334326/Ri-Cine_Photo-GET_IN_TOUCH-page_wmn5ix.png" width="300px" height="auto"  alt="Nav_bar"></p>
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-GET_IN_TOUCH-page_mobile_syc7jn.png" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421895/get_in_touch_page_sqsexw.png" width="700px" height="auto"  alt="Nav_bar"></p>
 
 - Thank you Page
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-THANK_YOU-page_bj1pbm.png" width="300px" height="auto"  alt="Nav_bar"></p>
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674334325/Ri-Cine_Photo-THANK_YOU-page_mobile_nmpdhc.png" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421895/thank_you_page_s5bm8g.png" width="700px" height="auto"  alt="Nav_bar"></p>
 
-### Colour Pallete
+## Colour Pallete
 
   - The three main colors used are: 
      - Dark Colour: #0B0B09
-     - Grey Color: #494949
+     - Grey Colour: #494949
      - Light Grey Colour: #DADAD2.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674340084/color_pallete_for_website_gpedrf.jpg" width="300px" height="auto"  alt="Nav_bar"></p>
 
-### Typography
+## Typography
 
   - Varela Round and Kanit are the two fonts used throughout the whole website with Sans Serif as the fallback font in case for any reason fonts aren't being imported into the site correctly. 
 
 
 
-## Technologies
+# Technologies
 
-#### HTML
+### HTML
   - The structure of the Website was developed using HTML as the main language.
 
-#### CSS
+### CSS
   - The Website was styled using custom CSS in an external file.
 
-#### Font Awesome
+### Font Awesome
   - Icons obtained from https://fontawesome.com/ were used as the Social media links in the footer section.
 
-#### Ezgif
+### Ezgif
   - https://ezgif.com was used to reduce the size of the images used throughout the website.
 
-#### Favicon.io
+### Favicon
   - Favicon files were created at https://favicon.io/favicon-converter/.
 
-#### Balsamiq
+### Balsamiq
   - Wireframes were created using balsamiq from https://balsamiq.com/.
 
 
   
-## Testing 
+# Testing 
 
-### Functional Testing
+## Functional Testing
 
 <table>
   <tr>
@@ -190,51 +223,61 @@ A good photography website is a showcase for photos, so users will be able to fi
 </table>
 
 
-### Manual testing
+## Manual testing
 
 - The website was tested on Google Chrome, Internet Explorer and Microsoft Edge browsers.
     
 - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhoneX & Samsung Galaxy NotePro.
 
-- The get in touch form was is 
+- The required fields in the get in touch form were checked 
 
 - A large amount of testing was done to ensure that all pages were linking correctly.
 
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Lighthouse Testing
+## Lighthouse Testing
 
 
 
-### Validator Testing 
+## Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator]()
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]()
 
-### Unfixed bugs
+## Unfixed bugs
 
 
 
-## Deployment
+# Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- This project was developed using GitPod, which was then committed and pushed to GitHub using the GitPod terminal.
+
+## Deploying on GitHub Pages
+
+To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+
+  - Log into GitHub or create an account.
+  - Locate the GitHub Repository.
+  - At the top of the repository, select Settings from the menu items.
+  - Scroll down the Settings page to the "Pages" section.
+  - Under "Source" click the drop-down menu labelled "None" and select "Main".
+  - Upon selection, the page will automatically refresh meaning that the website is now deployed.
+  - Scroll back down to the "Pages" section to retrieve the deployed link.
+
 
 The live link can be found here - 
 
 
 
-## Credits 
+# Credits 
 
-### Code
+## Code
 
 - Reference Code which I used to create my Image and quote cards [CSS Responsive Card & Hover Effects with Flexbox | HTML CSS3 Tutorials 2021](https://www.youtube.com/watch?v=qXRYMdvq_Dc).
 
-### Resources
+## Resources
 
 - [Code Institute](https://codeinstitute.net/ie/)
 - [Readme](https://readme.so/)
@@ -244,11 +287,11 @@ The live link can be found here -
 
 
 
-## Content 
+# Content 
 
 
 
-## Acknowledgments
+# Acknowledgments
 
 - My Mentor for continious helpful feedback.
 - Tutor support at Code Institute for her support

@@ -261,14 +261,22 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
 ### Lighthouse Testing
 
+- The performance test of all the pages was done with Lighthouse through Google Chrome Developer Tools, both for desktop and mobile devices.
 
+  - Lighthouse test results for Desktop:
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674517233/lighthouse-desktop_pvs3vj.png" width="1600px" height="auto"  alt="lighthouse-desktop"></p>
+
+  - Lighthouse test results for Mobile:
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674517237/lighthouse-mobile_jp5sov.png" width="1600px" height="auto"  alt="lighthouse-desktop"></p>
 
 ### Validator Testing 
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674431237/w3_validator_ddy6sm.png" width="1500px" height="auto"  alt="HTML-validator"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674431237/w3_validator_ddy6sm.png" width="1600px" height="auto"  alt="HTML-validator"></p>
 
 
 - CSS

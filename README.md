@@ -4,9 +4,11 @@ RI Cine|Photo is a professional photographer who wants to share his best work an
 
 The website is easy to navigate, it is very clean, using minimal colours and fonts. It is also responsive for different screen sizes.
 
-A good photography website is a showcase for photos, so users will be able to find 'RI' work portfolio using a photo gallery and fill in the contact form to get in touch. 'RI' social media accounts are also included on the website so users can keep up to date by following him.
+A good photography website is a showcase for photos, so users will be able to find RI Cine|Photo work portfolio using a photo gallery and fill in the contact form to get in touch. RI Cine|Photo social media accounts are also included on the website so users can keep up to date by following him.
 
-![Responsice Mockup](https://res.cloudinary.com/dcydt01ed/image/upload/v1674428703/responsive-mock_up-white_n1ok4h.png)
+![Responsice Mockup](https://res.cloudinary.com/dcydt01ed/image/upload/v1674429287/responsive-mock_up-white_cylzy4.png)
+Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
+
 
 # Contents
 
@@ -39,7 +41,7 @@ A good photography website is a showcase for photos, so users will be able to fi
 - [Deployment](#deployment)
   - [Deploying on GitHub Pages](#deploying-on-github-pages)
 - [Credits](#credits)
-  - [Code](#code)
+  - [Content](#content)
   - [Resources](#resources)
 - [Acknowledgments](#acknowledgments)
 
@@ -104,10 +106,9 @@ A good photography website is a showcase for photos, so users will be able to fi
 
 ## Existing Features
 
-    - Responsive design.
-    - Contact form and success page.
-    - Interactive elements.
-
+  - Responsive design.
+  - Contact form and success page.
+  - Interactive elements.
 
 
 # Design
@@ -144,7 +145,6 @@ A good photography website is a showcase for photos, so users will be able to fi
   - Varela Round and Kanit are the two fonts used throughout the whole website with Sans Serif as the fallback font in case for any reason fonts aren't being imported into the site correctly. 
 
 
-
 # Technologies
 
 ### HTML
@@ -166,7 +166,6 @@ A good photography website is a showcase for photos, so users will be able to fi
   - Wireframes were created using balsamiq from https://balsamiq.com/.
 
 
-  
 # Testing 
 
 ## Functional Testing
@@ -239,7 +238,11 @@ A good photography website is a showcase for photos, so users will be able to fi
 ## Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator]()
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674431237/w3_validator_ddy6sm.png" width="1500px" height="auto"  alt="Nav_bar"></p>
+
+
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator]()
 
@@ -264,15 +267,15 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
   - Scroll back down to the "Pages" section to retrieve the deployed link.
 
 
-The live link can be found here - 
+The live link can be found [here](https://astajoks.github.io/ri-cine-photo/)
 
 
 
 # Credits 
 
-## Code
+## Content
 
-- Reference Code which I used to create my Image and quote cards [CSS Responsive Card & Hover Effects with Flexbox | HTML CSS3 Tutorials 2021](https://www.youtube.com/watch?v=qXRYMdvq_Dc).
+- Instructions of how to create my Image and quote cards [CSS Responsive Card & Hover Effects with Flexbox | HTML CSS3 Tutorials 2021](https://www.youtube.com/watch?v=qXRYMdvq_Dc).
 
 ## Resources
 
@@ -281,15 +284,11 @@ The live link can be found here -
 - [Photography Quotes](https://shotkit.com/photography-quotes/)
 - [CSS Flex Responsive](https://www.w3schools.com/css/css3_flexbox_responsive.asp)
 - [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/)
-
-
-
-# Content 
-
+- [Photos](https://ricinephoto.com/)
 
 
 # Acknowledgments
 
 - My Mentor for continious helpful feedback.
-- Tutor support at Code Institute for her support
+- Tutors support at Code Institute for their support.
 - RI Cine|Photo for giving me a permission to use his name, logo and his photos.

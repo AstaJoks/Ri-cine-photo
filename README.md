@@ -59,35 +59,35 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
    - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Get in Touch page and is identical in each page to allow for easy navigation.
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/nav_buttons_oe9ecm.jpg" width="800px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/nav_buttons_oe9ecm.jpg" width="800px" height="auto"  alt="Nav-buttons"></p>
 
 ## Landing page images
 
   - The landing includes a photograph with text overlay to allow the user to see exactly what this site would be applicable to. 
   - This section introduces the user to RI Cine|Photo with an eye catching moon animation to grab their attention.
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/landing_page_image_qytqzb.webp" width="800px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/landing_page_image_qytqzb.webp" width="800px" height="auto"  alt="Landing-page-image"></p>
 
 ## Photos with the quotes section
 
   - Photos are used to catch the user's eye and make him/her to see more of the photographer's work.
   - Quotes will help the user to look at the art of photography in the whole new "light".
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263206/photos_quotes_qzjniy.webp" width="800px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263206/photos_quotes_qzjniy.webp" width="800px" height="auto"  alt="Photos-Quotes"></p>
 
 ## Footer 
 
   - The footer section includes links of the social media accounts for Ri Cine|Photo. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262882/footer_mvov5d.webp" width="800px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262882/footer_mvov5d.webp" width="800px" height="auto"  alt="Footer"></p>
 
 ## Gallery
 
   - The Gallery will provide the user with the photographer's portfolio/his best photos.
   - This section is valuable to the user as they will be able to see the photographer's previous work and find out how they like the style of the photos.
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263441/gallery_p8eyfc.webp" width="800px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674263441/gallery_p8eyfc.webp" width="800px" height="auto"  alt="Gallery"></p>
 
 ## Get in Touch Page
 
@@ -100,9 +100,9 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
   - On successful submission of the get in touch form, the user will be navigated to thank-you.html displaying a success message.
   - This will allow user to contact 'RI' if they would like to make a booking or for any other queries.
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264345/get_in_touch_form_d1j88n.webp" width="800px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264345/get_in_touch_form_d1j88n.webp" width="800px" height="auto"  alt="Get-in-touch-page"></p>
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264340/thank_you_message_ghrrld.webp" width="800px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264340/thank_you_message_ghrrld.webp" width="800px" height="auto"  alt="Thank-you-page"></p>
 
 ## Existing Features
 
@@ -117,28 +117,28 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
 - Home Page
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421896/home_page_jlrdt7.png" width="700px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421896/home_page_jlrdt7.png" width="700px" height="auto"  alt="Wireframe-homme-page"></p>
 
 - Gallery Page
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421896/gallery_page_psnary.png" width="700px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421896/gallery_page_psnary.png" width="700px" height="auto"  alt="Wireframe-gallery-page"></p>
 
 - Get in Touch Page
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421895/get_in_touch_page_sqsexw.png" width="700px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421895/get_in_touch_page_sqsexw.png" width="700px" height="auto"  alt="Wireframe-get-in-touch-page"></p>
 
 - Thank you Page
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421895/thank_you_page_s5bm8g.png" width="700px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674421895/thank_you_page_s5bm8g.png" width="700px" height="auto"  alt="Wireframe-thank-you-page"></p>
 
 ## Colour Pallete
 
-  - The three main colors used are: 
+  - The three main colours used are: 
      - Dark Colour: #0B0B09
      - Grey Colour: #494949
      - Light Grey Colour: #DADAD2.
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674340084/color_pallete_for_website_gpedrf.jpg" width="300px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674340084/color_pallete_for_website_gpedrf.jpg" width="300px" height="auto"  alt="Colour-pallete"></p>
 
 ## Typography
 
@@ -240,11 +240,13 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674431237/w3_validator_ddy6sm.png" width="1500px" height="auto"  alt="Nav_bar"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674431237/w3_validator_ddy6sm.png" width="1500px" height="auto"  alt="HTML-validator"></p>
 
 
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator]()
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674508207/w3_css_validator_pvcfln.png" width="500px" height="auto"  alt="CSS-validator"></p>
 
 ## Unfixed bugs
 

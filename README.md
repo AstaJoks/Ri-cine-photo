@@ -74,7 +74,7 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
 ### Navigation Buttons
 
-   - Contains links to the Gallery(PORTFOLIO Button) and Get in Touch(CONTACT ME) pages and will be responsive on all devices.
+   - Contains links to the Gallery(PORTFOLIO button) and Get in Touch(CONTACT ME button) pages and will be responsive on all devices.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262831/nav_buttons_oe9ecm.jpg" width="800px" height="auto"  alt="Nav-buttons"></p>
 

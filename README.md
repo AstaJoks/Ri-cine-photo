@@ -285,13 +285,12 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674508207/w3_css_validator_pvcfln.png" width="500px" height="auto"  alt="CSS-validator"></p>
 
-### Unfixed/fixed bugs
+### Unfixed bugs
 
   - Warning on all pages apears due to the fact that GitHub pages disable FLoC, which is Google's 3rd party cookie alternative. 
     - Source: [GithubBlog](https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites//).
-  - Add the Permission Policy in to the head of the index.html fixed the warning.
-    - Source: [Stackoverflow](https://stackoverflow.com/questions/69619035/error-with-permissions-policy-header-unrecognized-feature-interest-cohort).
 
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1675170199/warning_ilexog.png" width="500px" height="auto"  alt="CSS-validator"></p>
 
 [🔼 Back to top](#contents)
 

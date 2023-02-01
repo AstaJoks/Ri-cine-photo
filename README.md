@@ -81,7 +81,7 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 ### Favicon
 
   - A site wide favicon is implemented with the RI Cine|Photo Logo.
-  - This will provide an image in the the tabs header to allow the user to easily identify the website if they have multiple tabs open.
+  - This will provide an image in the tabs header to allow the user to easily identify the website if they have multiple tabs open.
 
   <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674512392/favicon_zsqaly.png" width="300px" height="auto"  alt="Nav-buttons"></p>
 
@@ -102,7 +102,7 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
 ### Footer 
 
-  - The footer section includes links of the social media accounts for Ri Cine|Photo. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links of the social media accounts for Ri Cine|Photo. Links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674262882/footer_mvov5d.webp" width="800px" height="auto"  alt="Footer"></p>
@@ -116,14 +116,14 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
 ### Get in Touch Page
 
-  - A Get in Touch form will be implemented to allow users to contact 'RI'. The form will consist of the following fields:
+  - A Get in Touch form will be implemented to allow users to contact RI Cine|Photo. The form will consist of the following fields:
       - First Name (required)
       - Last Name (required)
       - Email (required)
       - Telephone Number (required)
       - Message (optional)
   - On successful submission of the get in touch form, the user will be navigated to thank-you.html displaying a success message.
-  - This will allow user to contact 'RI' if they would like to make a booking or for any other queries.
+  - This will allow user to contact RI Cine|Photo if they would like to make a booking or for any other queries.
 
 <p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674264345/get_in_touch_form_d1j88n.webp" width="800px" height="auto"  alt="Get-in-touch-page"></p>
 
@@ -175,7 +175,7 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 ## Technologies
 
 #### HTML
-  - The structure of the Website was developed using HTML as the main language.
+  - The structure of the website was developed using HTML as the main language.
 
 #### CSS
   - The Website was styled using custom CSS in an external file.
@@ -249,11 +249,11 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
 ### Manual testing
 
-- The website was tested on Google Chrome, Internet Explorer and Microsoft Edge browsers.
+- The website was tested on Google Chrome, Firefox, Microsoft Edge and Safari browsers.
     
 - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhoneX & Samsung Galaxy NotePro.
 
-- The required fields in the get in touch form were checked 
+- The required fields in the get in touch form were checked. 
 
 - A large amount of testing was done to ensure that all pages were linking correctly.
 
@@ -265,11 +265,11 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
 
   - Lighthouse test results for Desktop:
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674517233/lighthouse-desktop_pvs3vj.png" width="1600px" height="auto"  alt="lighthouse-desktop"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674517233/lighthouse-desktop_pvs3vj.png" width="1600px" height="auto"  alt="Lighthouse-desktop"></p>
 
   - Lighthouse test results for Mobile:
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674517237/lighthouse-mobile_jp5sov.png" width="1600px" height="auto"  alt="lighthouse-desktop"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1674517237/lighthouse-mobile_jp5sov.png" width="1600px" height="auto"  alt="Lighthouse-mobile"></p>
 
 
 ### Validator Testing 
@@ -290,9 +290,11 @@ Visit the live site [Here](https://astajoks.github.io/ri-cine-photo/)
   - Warning on all pages apears due to the fact that GitHub pages disable FLoC, which is Google's 3rd party cookie alternative. 
     - Source: [GithubBlog](https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites//).
 
-<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1675170199/warning_ilexog.png" width="500px" height="auto"  alt="CSS-validator"></p>
+<p><img src="https://res.cloudinary.com/dcydt01ed/image/upload/v1675170199/warning_ilexog.png" width="500px" height="auto"  alt="Warning"></p>
+
 
 [🔼 Back to top](#contents)
+
 
 ## Deployment
 
@@ -319,7 +321,7 @@ The live link can be found [here](https://astajoks.github.io/ri-cine-photo/)
 
 ### Content
 
-- Instructions of how to create my Image and quote cards [CSS Responsive Card & Hover Effects with Flexbox | HTML CSS3 Tutorials 2021](https://www.youtube.com/watch?v=qXRYMdvq_Dc).
+- Instructions of how to create my Image and Quote cards [CSS Responsive Card & Hover Effects with Flexbox | HTML CSS3 Tutorials 2021](https://www.youtube.com/watch?v=qXRYMdvq_Dc).
 
 ### Resources
 
@@ -330,6 +332,7 @@ The live link can be found [here](https://astajoks.github.io/ri-cine-photo/)
 - [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/)
 - [Photos](https://ricinephoto.com/)
 
+
 [🔼 Back to top](#contents)
 
 ## Acknowledgments
@@ -338,4 +341,4 @@ The live link can be found [here](https://astajoks.github.io/ri-cine-photo/)
 - Tutors support at Code Institute for their support.
 - RI Cine|Photo for giving me a permission to use his name, logo and his photos.
 
-[def]: #site-owner's-goals
+[🔼 Back to top](#contents)
